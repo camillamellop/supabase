@@ -38,7 +38,7 @@ The documentation embeddings generation system processes various documentation s
 
 4. **Partner Integrations** (`partner-integrations.ts`)
    - Fetches approved partner integration documentation from Supabase database
-   - Technology integrations only (excludes agencies)
+   - Technology integrations only (excludes agencies)   
 
 ### Processing Flow
 
